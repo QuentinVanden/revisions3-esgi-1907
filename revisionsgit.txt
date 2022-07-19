@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Bonjour je suis un fichier 
 
 modif du ficher2
 
 modif du fichier avec la branche test
+=======
+Bonjour je suis un fichier 
+>>>>>>> parent of 89b89ed (modif n°2)
